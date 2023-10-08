@@ -17,11 +17,14 @@ Links of Demo Video:
 
    
 Project Description - NASA Project Creator + Contributor Zone is a Web App
+
 This Web App suggests and recommends users the most appropriate NASA Open Science Project based on keywords, fields of science, agency sponsor, geographic scope, and participation tasks.
 
 Pain Point
+
 Currently, there is no place online for Open Science project creators and skilled participants to find each other, mingle, and foster professional relationships to work on interesting open research projects. Thus, we propose the creation of this project: NASA Project Creator + Contributor Zone.
- The idea behind this project is to provide a valuable solution that open science contributors in looking for interesting and relevant project ideas based on their interest and expertises.
+The idea behind this project is to provide a valuable solution that open science contributors in looking for interesting and relevant project ideas based on their interest and expertises.
 
 Objectives
+
 The main objectives of this web app is to create a marketplace for open science projects so that open science projects will be more accessible for everyone who eager to contribute to science projects related to their interests. Also, we want to build a marketplace for project creators to find creators who match with all skills & expertise required in the project. We will be building this marketplace in web application using Machine Learning, Large Language Model (LLM), Generative AI and Natural Language Processing (NLP).
