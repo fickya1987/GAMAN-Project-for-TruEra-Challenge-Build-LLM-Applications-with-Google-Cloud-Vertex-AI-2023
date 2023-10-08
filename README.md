@@ -8,6 +8,7 @@ We want to create a marketplace for open science projects so that open science p
 We are hoping that all interactions between project creators and contributors in any NASA Open Science Project will become more accessible, interactive, and fun. In addition, this web app will make NASA Open Data become easier to find and more organized.
 
 You can try the demo in my Streamlit app: https://nasaproject2023-dzgwiak2nirgiw4ibixxjc.streamlit.app/
+
 For AI Chatting Bot, here is the link to try: https://creator.voiceflow.com/prototype/65228db78a17c2d6818ac808
 
 Links of Demo Video:
