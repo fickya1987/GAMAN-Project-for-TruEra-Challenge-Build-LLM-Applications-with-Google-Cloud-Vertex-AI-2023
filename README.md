@@ -13,7 +13,7 @@ For AI Chatting Bot, here is the link to try: https://creator.voiceflow.com/prot
 
 For communication tool between project creators and contributors, we will do video & chat in platform https://brie.fi/ng/ficky01#ficky01
 
-Also with regard to video & chat tools in our Web App, we are inspired by work of https://github.com/holtwick/briefing/. 
+Also, with regard to video & chat tools in our Web App, we are inspired by work of https://github.com/holtwick/briefing/. 
 
 
 Links of Demo Video:
