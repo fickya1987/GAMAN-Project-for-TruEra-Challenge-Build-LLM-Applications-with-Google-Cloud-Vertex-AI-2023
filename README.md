@@ -3,7 +3,13 @@ A Marketplace for Open Science Projects  - NASA Space Apps Challenges 2023
 
 NASA Open Science Project Creator + Contributor Zone
 
-We want to create a marketplace for open science projects so that open science projects will be more accessible for everyone who eager to contribute to science projects related to their interests. Also, we want to build a marketplace for project creators to find creators who match with all skills & expertise required in the project. In this web app, we create open science project marketplace which has some features as follows: (1) NASA SEARCH ENGINE - AI CHATTING BOT (2) NASA SUGGESTION SYSTEM / RECOMMENDATION SYSTEM (3) NASA COMMUNICATION TOOLS. 
+We want to create a marketplace for open science projects so that open science projects will be more accessible for everyone who eager to contribute to science projects related to their interests. Also, we want to build a marketplace for project creators to find creators who match with all skills & expertise required in the project. In this web app, we create open science project marketplace which has some features as follows: 
+
+(1) NASA SEARCH ENGINE - AI CHATTING BOT 
+
+(2) NASA SUGGESTION SYSTEM / RECOMMENDATION SYSTEM 
+
+(3) NASA COMMUNICATION TOOLS. 
 
 With all those features, we are hoping that all interactions between project creators and contributor in any NASA Open Science Project will become more accessible, interactive, and fun. In addition, this web app will make NASA Open Data become easier to find and more organized.
 
