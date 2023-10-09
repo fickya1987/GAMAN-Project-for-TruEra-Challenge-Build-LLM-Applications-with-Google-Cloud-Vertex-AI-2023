@@ -11,9 +11,9 @@ You can try the demo in my Streamlit app: https://nasaproject2023-dzgwiak2nirgiw
 
 For AI Chatting Bot, here is the link to try: https://creator.voiceflow.com/prototype/65228db78a17c2d6818ac808
 
-For communication tool between project creators and contributors, we will do video and chat in platform https://brie.fi/ng/ficky01#ficky01
+For communication tool between project creators and contributors, we will do video & chat in platform https://brie.fi/ng/ficky01#ficky01
 
-Also with regard to video chat tool in our Web App, we are inspired by work of https://github.com/holtwick/briefing/. 
+Also with regard to video & chat tools in our Web App, we are inspired by work of https://github.com/holtwick/briefing/. 
 
 
 Links of Demo Video:
