@@ -1,0 +1,10 @@
+# https://developer.voiceflow.com/docs/exports
+API_KEY="{api_key}"
+
+# development version, find more versions in settings
+VERSION_ID="65228db78a17c2d6818ac808"
+
+curl --request GET \
+     --url "https://api.voiceflow.com/v2/versions/$VERSION_ID/export?prototype=true" \
+     --header "Authorization: $API_KEY" \
+     --header 'accept: application/json'
