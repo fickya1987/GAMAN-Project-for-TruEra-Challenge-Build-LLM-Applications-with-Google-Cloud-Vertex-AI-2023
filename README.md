@@ -15,6 +15,8 @@ So, the objective is that we want to create a marketplace for open science proje
 
 (3) NASA COMMUNICATION TOOLS. 
 
+(4) TRULENS STREAMLIT FOR EVALUATING LLM
+
 With all those features, we are hoping that all interactions between project creators and contributor in any NASA Open Science Project will become more accessible, interactive, and fun. In addition, this web app will make NASA Open Data become easier to find and more organized.
 
 You can try the demo in my Streamlit app: https://nasaproject2023-dzgwiak2nirgiw4ibixxjc.streamlit.app/
@@ -22,6 +24,8 @@ You can try the demo in my Streamlit app: https://nasaproject2023-dzgwiak2nirgiw
 For AI Chatting Bot, here is the link of demo: https://clipchamp.com/watch/gghjhWERJ2I
 
 For communication tool between project creators and contributors, we will do video & chat in platform https://brie.fi/ng/ficky01#ficky01
+
+For checking the TRULENS STREAMLIT, here is the link of google colab for this project: https://colab.research.google.com/drive/11W9watN1WbID39pZT46nfECNpmQOJp1_?usp=sharing
 
 
 Links of Demo Video:
