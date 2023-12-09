@@ -3,7 +3,7 @@ A Marketplace for Open Science Projects!
 
 When I decided to join TruEra Challenge: Build LLM Applications with Google Cloud Vertex AI Hackathon, first thing that came up to my mind was that I aim to expand Large Language Model (LLM) with Google Vertex AI & TruLens for my project which is NASA: A MARKETPLACE FOR OPEN SCIENCE PROJECTS!
 
-This project was inspired by our experiences in NASA Hackathon Space Apps Challenges 2023. We want to upgrade this project with Vertex AI & TruLens. Also, we aim to expand NASA Open Science project database into LLM. We want to create a marketplace for project creators (such as: enterprises, universities,government agencies,etc) to find contributors (such as: researchers,scientists,students,professionals,etc) who match with all skills & expertise required in the project.
+This project was inspired by our experiences in NASA Hackathon Space Apps Challenges 2023. We want to upgrade this project with Vertex AI & TruLens. Also, we aim to expand NASA Open Science project database into LLM. We want to create a marketplace for project creators (such as: enterprises, universities, government agencies, etc) to find contributors (such as: researchers, scientists, students, professionals, etc) who match with all skills & expertise required in the project.
 
 Thus, I want to use NASA Marketplace as my case for this TruEra Challenge Hackathon. I eager to investigate how TruLens will be able to evaluate my LLM with regard to the RAG Triad ( Answer Relevance, Context relevance, and Groundedness).
 
